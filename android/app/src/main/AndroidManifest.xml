@@ -14,7 +14,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="flutter_navigation_playground"
+        android:label="Flutter Navigation Playground"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
